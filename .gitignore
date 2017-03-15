@@ -31,6 +31,7 @@ pip-log.txt
 cover
 .tox
 nosetests.xml
+tests/vcr_cassettes
 
 # Translations
 *.mo
